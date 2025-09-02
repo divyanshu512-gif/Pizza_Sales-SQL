@@ -51,10 +51,13 @@ This project contains a complete analysis of pizza sales using a structured rela
 ---
 ## Tools Used
 
-- SQL (PostgreSQL/MySQL compatible syntax)
+- SQL (PostgreSQL compatible syntax)
 
 - CSV files (data import)
 
 - GitHub for version control
 
+---
+## Author
 
+[Name] Divyanshu Singh
