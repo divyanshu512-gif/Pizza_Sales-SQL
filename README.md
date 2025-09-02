@@ -20,7 +20,7 @@ This project contains a complete analysis of pizza sales using a structured rela
 ---
 ## Analysis Performed
 
-### **Below are the key insights extracted using SQL:**
+### Below are the key insights extracted using SQL:
 
 1. Total number of orders placed
 
