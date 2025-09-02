@@ -60,4 +60,7 @@ This project contains a complete analysis of pizza sales using a structured rela
 ---
 ## Author
 
-[Name] Divyanshu Singh
+**NAME**: Divyanshu Singh
+
+**EMAIL**: divyanshus317@gmail.com
+
