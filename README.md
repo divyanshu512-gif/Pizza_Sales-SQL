@@ -48,4 +48,13 @@ This project contains a complete analysis of pizza sales using a structured rela
 
 14. Top 3 pizzas by revenue in each category
 
+---
+## Tools Used
+
+- SQL (PostgreSQL/MySQL compatible syntax)
+
+- CSV files (data import)
+
+- GitHub for version control
+
 
