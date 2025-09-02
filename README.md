@@ -20,7 +20,7 @@ This project contains a complete analysis of pizza sales using a structured rela
 ---
 ## Analysis Performed
 
-**Below are the key insights extracted using SQL:**
+### **Below are the key insights extracted using SQL:**
 
 1. Total number of orders placed
 
@@ -42,8 +42,10 @@ This project contains a complete analysis of pizza sales using a structured rela
 
 10. Top 3 pizza types by revenue
 
-11. Percentage contribution of each pizza type to total revenue
+12. Percentage contribution of each pizza type to total revenue
 
-12. Cumulative revenue over time
+13. Cumulative revenue over time
 
-13. Top 3 pizzas by revenue in each category
+14. Top 3 pizzas by revenue in each category
+
+
