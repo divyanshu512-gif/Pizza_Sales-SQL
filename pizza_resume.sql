@@ -114,6 +114,7 @@ FROM pizza_types
 GROUP BY category
 ORDER BY category;
 
+
 -- 9.	Group the orders by date and calculate the average number of pizzas ordered per day.
 
 SELECT ROUND(AVG(per_day_order),2)  AS PerDayOrder FROM
@@ -153,6 +154,7 @@ ON p.pizza_type_id = pt.pizza_type_id
 GROUP BY pt.name
 ORDER BY revenue DESC;
 
+
 -- 12.	Analyze the cumulative revenue generated over time.
 
 SELECT date, SUM(revenue) OVER(ORDER BY date) AS cumulative_revenue
@@ -181,3 +183,4 @@ JOIN order_details od
 ON p.pizza_id = od.pizza_id
 GROUP BY pt.category, pt.name))
 WHERE RANK <= 3;
+
