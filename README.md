@@ -14,3 +14,36 @@ This project contains a complete analysis of pizza sales using a structured rela
 - **pizzas.csv**: Contains pricing and size information for each pizza.
 
 - **pizza_types.csv**: Metadata including pizza type, category, and ingredients.
+
+- **Pizza Sales.pdf**: Contains information in a visually appealing way.
+
+---
+## Analysis Performed
+
+**Below are the key insights extracted using SQL:**
+
+1. Total number of orders placed
+
+2. Total revenue generated
+
+3. Highest-priced pizza
+
+4. Most common pizza size ordered
+
+5. Top 5 most ordered pizza types
+
+6. Total quantity ordered by category
+
+7. Order distribution by hour
+
+8. Category-wise variety of pizzas
+
+9. Average pizzas ordered per day
+
+10. Top 3 pizza types by revenue
+
+11. Percentage contribution of each pizza type to total revenue
+
+12. Cumulative revenue over time
+
+13. Top 3 pizzas by revenue in each category
